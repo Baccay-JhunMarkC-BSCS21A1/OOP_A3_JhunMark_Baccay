@@ -1,0 +1,14 @@
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\bin\Debug\net8.0\coffee_shop_procedural.exe
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\bin\Debug\net8.0\coffee_shop_procedural.deps.json
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\bin\Debug\net8.0\coffee_shop_procedural.runtimeconfig.json
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\bin\Debug\net8.0\coffee_shop_procedural.dll
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\bin\Debug\net8.0\coffee_shop_procedural.pdb
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\coffee_shop_procedural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\coffee_shop_procedural.AssemblyInfoInputs.cache
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\coffee_shop_procedural.AssemblyInfo.cs
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\coffee_shop_procedural.csproj.CoreCompileInputs.cache
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\coffee_shop_procedural.dll
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\refint\coffee_shop_procedural.dll
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\coffee_shop_procedural.pdb
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\coffee_shop_procedural.genruntimeconfig.cache
+C:\Users\jhunm\Desktop\lycevm_oop_samples-master\coffee_shop_procedural\obj\Debug\net8.0\ref\coffee_shop_procedural.dll
