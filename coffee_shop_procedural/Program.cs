@@ -5,8 +5,8 @@ namespace coffee_shop_procedural;
 
 public class Menu
 {
-    public List<string> MenuItems { get; private set; } = new List<string>();  // Initialized to an empty list
-    public List<decimal> MenuPrices { get; private set; } = new List<decimal>();  // Initialized to an empty list
+    public List<string> MenuItems { get; private set; } = new List<string>();
+    public List<decimal> MenuPrices { get; private set; } = new List<decimal>();  
 
     public Menu(string menuFile)
     {
@@ -19,8 +19,6 @@ public class Menu
         {
             string json = File.ReadAllText(menuFile);
             var menu = JsonSerializer.Deserialize<Dictionary<string, decimal>>(json);
-
-            // Ensure menu is not null before adding to lists
             if (menu != null)
             {
                 MenuItems = new List<string>(menu.Keys);
